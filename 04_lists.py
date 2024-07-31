@@ -1,7 +1,7 @@
 ### Lists ###
 
-my_list = list()
-my_other_list = []
+my_list = list() # Forma de llamar a una lista 
+my_other_list = [] # Otra forma de llamar una lista
 
 print(len(my_list))
 
