@@ -58,7 +58,7 @@ print(my_list)
 del my_list[2] #Elimina por indice
 print(my_list)
 
-my_new_list = my_list.copy()
+my_new_list = my_list.copy() #Copia la lista tal cual
 
 my_list.clear()
 print(my_list)
