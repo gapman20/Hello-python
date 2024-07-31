@@ -67,10 +67,10 @@ print(my_new_list)
 my_new_list.reverse()
 print(my_new_list)
 
-my_new_list.sort() #Ordena a la lista de mayor a menor
+my_new_list.sort() #Ordena a la lista de menor a mayor
 print(my_new_list)
 
-print(my_new_list[1:3])
+print(my_new_list[1:3]) # Sub listas
 
 my_list = "Hola Python"
 print(my_list)
